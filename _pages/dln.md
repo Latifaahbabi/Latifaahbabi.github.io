@@ -1,5 +1,5 @@
 ---
-title: "Digital Litracy Narrative"
+title: "Digital Narrative"
 permalink: /dln/
 author_profile: false
 ---
