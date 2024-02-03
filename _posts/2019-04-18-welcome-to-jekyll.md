@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Assignment 1"
+date: 2024-02-03T15:34:30-04:00
 categories:
   - blog
 tags:
