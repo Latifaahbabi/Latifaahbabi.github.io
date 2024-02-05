@@ -5,7 +5,7 @@ author_profile: false
 ---
 # Course Reflection
 
-As a 20-year-old university student, I embarked on a transformative journey by enrolling in an introductory course in digital humanities. What made this experience particularly enriching was the diverse group of classmates who joined me. Our majors spanned a wide spectrum of disciplines, including Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Together, we have explored digital literacy, each bringing a unique set of strategies and skills into the classroom.
+As a 19-year-old university student, I embarked on a transformative journey by enrolling in an introductory course in digital humanities. What made this experience particularly enriching was the diverse group of classmates who joined me. Our majors spanned a wide spectrum of disciplines, including Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Together, we have explored digital literacy, each bringing a unique set of strategies and skills into the classroom.
 
 Before immersing ourselves in the world of digital humanities, we had already developed our own strategies for navigating the digital landscape in both daily life and academics. As a Computer Science major, I was well-versed in coding languages such as Python and Java, using them for content creation, software development, and data manipulation. My academic journey was marked by problem-solving, algorithm design, and collaborative coding through platforms like GitHub.
 
