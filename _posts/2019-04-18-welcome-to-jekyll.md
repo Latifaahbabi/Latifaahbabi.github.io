@@ -39,8 +39,9 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 **Part 2: Analyzing Cultural Representation**
 
-Diversity of Cultures: The presence of 254 rows in the "All_culture_information.csv" file suggests a significant diversity of cultures represented in the HAM collection. This diversity is indicative of the museum's efforts to present a global perspective on art, showcasing works from a broad spectrum of cultures, from well-known to lesser-known communities.
-Object Count by Culture: The object count associated with each culture (e.g., Scythian, Graeco-Phoenician, Himyarite) offers insights into the museum's collection focus and possibly its view of world cultures. A higher object count for certain cultures could suggest a deeper or more comprehensive collection in those areas, reflecting historical, aesthetic, or academic interests.
+**Diversity of Cultures:** The presence of 254 rows in the "All_culture_information.csv" file suggests a significant diversity of cultures represented in the HAM collection. This diversity is indicative of the museum's efforts to present a global perspective on art, showcasing works from a broad spectrum of cultures, from well-known to lesser-known communities.
+
+**Object Count by Culture:** The object count associated with each culture (e.g., Scythian, Graeco-Phoenician, Himyarite) offers insights into the museum's collection focus and possibly its view of world cultures. A higher object count for certain cultures could suggest a deeper or more comprehensive collection in those areas, reflecting historical, aesthetic, or academic interests.
 
 **Most and Least Viewed Items Analysis**
 **Why They Are Popular:**The most viewed items might be those that have significant historical value, are part of popular exhibitions, or have been extensively promoted by the museum. They could also be works by renowned artists or pieces that resonate with contemporary social and cultural themes.
