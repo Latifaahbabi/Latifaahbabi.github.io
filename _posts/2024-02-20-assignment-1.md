@@ -44,6 +44,7 @@ Digital tools and resources, like museum websites and publicly available data AP
 **Object Count by Culture:** The object count associated with each culture (e.g., Scythian, Graeco-Phoenician, Himyarite) offers insights into the museum's collection focus and possibly its view of world cultures. A higher object count for certain cultures could suggest a deeper or more comprehensive collection in those areas, reflecting historical, aesthetic, or academic interests.
 
 **Most and Least Viewed Items Analysis**
+
 **Why They Are Popular:**The most viewed items might be those that have significant historical value, are part of popular exhibitions, or have been extensively promoted by the museum. They could also be works by renowned artists or pieces that resonate with contemporary social and cultural themes.
 
 **Example Analysis:** For cultures with high object counts and views, such as "Spanish" or "Native American," look for patterns like notable artists (e.g., Picasso for Spanish) or pieces with unique historical significance. This can indicate public interest areas or successful museum promotion strategies.
@@ -52,7 +53,6 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 **Example Analysis:** For cultures with lower object counts or views, such as "Turkistan" or "Himyarite," this might reflect a need for more inclusive curation or targeted efforts to highlight these collections' value and relevance.
 
-**Speculation on Viewing Patterns**
 
 **Cultural Bias and Representation:** The viewing patterns might reflect broader cultural biases and the representation of non-Western cultures in art history. Popular items might align with well-known narratives or aesthetic preferences, while less viewed items might challenge or fall outside these narratives.
 
