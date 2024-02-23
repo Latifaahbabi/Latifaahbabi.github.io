@@ -8,7 +8,7 @@ tags:
   - update
 ---
 
-`**Part 1: Exploring the HAM Website**`
+`Part 1: Exploring the HAM Website`
 
 The Harvard Art Museums' website is a digital gateway to their vast collections, offering users the opportunity to explore art from various cultures, time periods, and mediums. When I was assessing the website for usability and the richness of metadata available, i noticed the following:
 
@@ -37,7 +37,7 @@ Now, turning to the All_Objects.csv file, which you mentioned is accessible thro
 Digital tools and resources, like museum websites and publicly available data APIs, can enhance our understanding of art collections. They not only democratize access to art but also offer new avenues for research and education, allowing for a deeper understanding of cultural heritage and its representation in modern institutions. Also, while the website offers a curated, user-friendly entrance to the museum's collections, the API-derived data opens up a broader field for analytical exploration, offering insights into the museum's collection strategy, cultural representation, and potential biases. This dual approach enriches our understanding of how museums operate in the digital age, balancing between public engagement and scholarly research.
 
 
-`**Part 2: Analyzing Cultural Representation**`
+`Part 2: Analyzing Cultural Representation`
 
 **Diversity of Cultures:** The presence of 254 rows in the "All_culture_information.csv" file suggests a significant diversity of cultures represented in the HAM collection. This diversity is indicative of the museum's efforts to present a global perspective on art, showcasing works from a broad spectrum of cultures, from well-known to lesser-known communities.
 
@@ -58,7 +58,7 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 **Museum Practices:** The data could also reflect museum practices, including acquisition policies, exhibition strategies, and educational outreach efforts. Museums play a significant role in shaping which cultures and artworks are highlighted and how they are interpreted.
 
-`**Part 3: Generating Word Clouds**`
+`Part 3: Generating Word Clouds`
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
