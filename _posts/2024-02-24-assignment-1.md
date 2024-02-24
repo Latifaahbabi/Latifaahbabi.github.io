@@ -15,7 +15,7 @@ The Harvard Art Museums' website is a digital gateway to their vast collections,
 **Ease of Use:** The Harvard Art Museums' website is user-friendly and intuitive, allowing users to easily explore its extensive art collections. Its search functionality is efficient, filtering results based on criteria like time period, culture, or art type. The website also provides comprehensive metadata for each artwork, providing insights into the artist, historical context, and medium used. This comprehensive information deepens the viewer's understanding and appreciation of the art. The Harvard Art Museums' website serves as a model for contemporary museums to leverage digital platforms to extend their reach and impact, enhancing educational outcomes and fostering a deeper connection between the public and cultural heritage.
 
 **Metadata Availability:**
-![artwork](/assets/images/artwork.png)
+![artwork](/assets/images/artwork.pdf)
 
 The Harvard Art Museums' website provides a comprehensive and detailed description of the artwork "Moses Defending the Daughters of Jethro" by Nicolas Poussin. This extensive metadata includes vital identification and creation details, physical descriptions, provenance, acquisition rights, publication history, and exhibition history. The detailed information provides a rich context for viewers to appreciate the artwork beyond its visual appeal.
 
@@ -66,18 +66,18 @@ Drawing from my unique perspective and interest, I find it fascinating to consid
 
 Word clouds visually emphasize the frequency of words: the larger the word, the more frequently it appears in the source text. They can provide insights into the themes and subjects that are most prominent within a culture's artworks.
 
-![morocco](/assests/images/morocco.jpg)
+![morocco](/assests/images/morocco.pdf)
 Words like "Embroidered," "Red," "Silk," "Patterns," and "Leaf" suggest a strong emphasis on textile arts and detailed, colorful patterns in Moroccan art.
 
-![arab](/assests/images/arab.jpg)
+![arab](/assests/images/arab.pdf)
 Large words such as "Coin," "Manuscript," "Dinar," and "Dirham" indicate a focus on written materials and possibly historical and monetary art. 
 
-![brazil](/assests/images/brazil.jpg)
+![brazil](/assests/images/brazil.pdf)
 Terms like "Drawing," "Dancing," "Yellow," "Figure," and "Rio" reflect a vibrant and dynamic culture with emphasis on visual arts and possibly festivities.
 These word clouds can suggest that the Harvard Art Museum's collection may represent each culture through certain lenses textiles and intricate patterns for Morocco, scholarly and monetary items for Arab regions, and colorful, lively expressions for Brazil.
 
 **Time Series Bar Chart Analysis:**
-![barchart](/assests/images/barchart.jpg)      ![chart](/assests/images/chart.jpg)
+![barchart](/assests/images/barchart.pdf)      ![chart](/assests/images/chart.pdf)
 
 Objects per Year by Culture: This chart shows acquisition trends over time. A peak for Arab objects around the 1960s and relatively fewer acquisitions for Brazilian and Moroccan objects could indicate a period of particular interest or availability of Arab art.
 The word clouds and acquisition data together can provide a perspective on how the Harvard Art Museum curates its collection and which aspects of each culture are emphasized. This emphasis might reflect historical interests, collection availability, or curatorial decisions that could differ from those at other museums.
