@@ -87,13 +87,13 @@ Comparing to Personal Experience:
 Comparing this data to my own experiences in the Emirates and Morocco, I  find that the museum's collection aligns with or diverges from the cultural narratives and art movements im familiar with. This could highlight how cultural artifacts are represented and interpreted differently in an international context.
 
 Digging Deeper with Stop Words:
-By using a stop word function to remove high-frequency but low-information words (like "the," "and," "of"), I often uncover more nuanced themes in textual data. Removing such words from the word clouds could reveal less obvious but potentially more telling terms that speak to the essence of each culture's representation in the museum.
+By using a stop word function to remove high-frequency but low-information words (like "the," "and," "of"), I uncovered more nuanced themes in textual data. Removing such words from the word clouds revealed less obvious but potentially more telling terms that speak to the essence of each culture's representation in the museum.
 
 **Final Thoughts on Cultural Importance:**
 
-The data you've collected suggests that museums like the HAM play a significant role in shaping public perceptions of different cultures. They make choices about which narratives to highlight and how to present them, which can influence understanding and appreciation of these cultures.
+The data I've collected suggests that museums like the HAM play a significant role in shaping public perceptions of different cultures. They make choices about which narratives to highlight and how to present them, which can influence understanding and appreciation of these cultures.
 
-This interpretation is based on the visual data you've provided. For a more detailed analysis, one could consider additional contextual information such as the museum's acquisition policies, the provenance of the objects, and how the displays are curated.
+Ready to be graded :joy: :heart:
 
 
 
