@@ -70,7 +70,7 @@ Word clouds visually emphasize the frequency of words: the larger the word, the 
 Words like "Embroidered," "Red," "Silk," "Patterns," and "Leaf" suggest a strong emphasis on textile arts and detailed, colorful patterns in Moroccan artifacts.
 
 ![arab](/assests/images/arab.jpg)
-Large words such as "Coin," "Manuscript," "Dinar," and "Dirham" indicate a focus on written materials and possibly historical and monetary artifacts.
+Large words such as "Coin," "Manuscript," "Dinar," and "Dirham" indicate a focus on written materials and possibly historical and monetary artifacts. It stood out to me that Dirham is in there and it's  big in the word cloud, giving that the arab world has many currencies and the Dirham is most prominent within the arab cultures artwork got me excited.
 
 ![brazil](/assests/images/brazil.jpg)
 Terms like "Drawing," "Dancing," "Yellow," "Figure," and "Rio" reflect a vibrant and dynamic culture with emphasis on visual arts and possibly festivities.
