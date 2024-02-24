@@ -58,13 +58,9 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 **Museum Practices:** The data could also reflect museum practices, including acquisition policies, exhibition strategies, and educational outreach efforts. Museums play a significant role in shaping which cultures and artworks are highlighted and how they are interpreted.
 
-# `Part 3: Generating Word Clouds`
+# `Part 3: Compare Cultures`
 
-
-
-
-
-
+Drawing from my unique perspective and interest, I find it fascinating to consider how the HAM museum's collections reflect the diverse tapestries of history, culture, and art from around the world. I chose to compare the Arab, Moroccan, and Brazilian collections which offers a rich avenue for exploration, given my personal connections and curiosities about these regions. Given that I am Emirati this drew me to explore how the museum represents the cultural heritage of the Gulf region specifically, including contemporary art movements that are defining the modern Arab identity. The Moroccan collection would offer another layer of intrigue, especially given my annual visits to Morocco and familiarity with its museum offerings. Comparing the museum's portrayal of Moroccan culture with my firsthand experiences could reveal interesting insights into how Moroccan art and history are curated and interpreted on the international stage. The Brazilian collection at the HAM museum might explore themes of colonialism, resistance, and the synthesis of diverse cultural influences through many forms of cultural expression. This exploration could offer me a foundational understanding of Brazil's multifaceted identity, which is marked by both celebration and struggle.
 
 
 
