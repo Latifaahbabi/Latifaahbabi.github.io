@@ -60,7 +60,40 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 # `Part 3: Compare Cultures`
 
-Drawing from my unique perspective and interest, I find it fascinating to consider how the HAM museum's collections reflect the diverse tapestries of history, culture, and art from around the world. I chose to compare the Arab, Moroccan, and Brazilian collections which offers a rich avenue for exploration, given my personal connections and curiosities about these regions. Given that I am Emirati this drew me to explore how the museum represents the cultural heritage of the Gulf region specifically, including contemporary art movements that are defining the modern Arab identity. The Moroccan collection would offer another layer of intrigue, especially given my annual visits to Morocco and familiarity with its museum offerings. Comparing the museum's portrayal of Moroccan culture with my firsthand experiences could reveal interesting insights into how Moroccan art and history are curated and interpreted on the international stage. The Brazilian collection at the HAM museum might explore themes of colonialism, resistance, and the synthesis of diverse cultural influences through many forms of cultural expression. This exploration could offer me a foundational understanding of Brazil's multifaceted identity, which is marked by both celebration and struggle.
+Drawing from my unique perspective and interest, I find it fascinating to consider how the HAM museum's collections reflect the diverse tapestries of history, culture, and art from around the world. I chose to compare the Arab, Moroccan, and Brazilian collections which offers a rich avenue for exploration, given my personal connections and curiosities about these regions. Given that I am Emirati this drew me to explore how the museum represents the cultural heritage of the Gulf region specifically, including contemporary art movements that are defining the modern Arab identity. The Moroccan collection would offer another layer of intrigue, especially given my yearly visits to Morocco and familiarity with its museums (ive been to few museums in Morocco). Comparing the museum's portrayal of Moroccan culture with my firsthand experiences could reveal interesting insights into how Moroccan art and history are curated and interpreted on the international stage. The Brazilian collection at the HAM museum might explore themes of colonialism, resistance, and the synthesis of diverse cultural influences through many forms of cultural expression. This exploration could offer me a foundational understanding of Brazil's multifaceted identity, which is marked by both celebration and struggle.
+
+**Word Clouds Analysis:**
+
+Word clouds visually emphasize the frequency of words: the larger the word, the more frequently it appears in the source text. They can provide insights into the themes and subjects that are most prominent within a culture's artworks.
+
+![morocco](/assests/images/morocco.png)
+Words like "Embroidered," "Red," "Silk," "Patterns," and "Leaf" suggest a strong emphasis on textile arts and detailed, colorful patterns in Moroccan artifacts.
+
+![arab](/assests/images/arab.png)
+Large words such as "Coin," "Manuscript," "Dinar," and "Dirham" indicate a focus on written materials and possibly historical and monetary artifacts.
+
+![brazil](/assests/images/brazil.png)
+Terms like "Drawing," "Dancing," "Yellow," "Figure," and "Rio" reflect a vibrant and dynamic culture with emphasis on visual arts and possibly festivities.
+T
+hese word clouds can suggest that the Harvard Art Museum's collection may represent each culture through certain lenses—textiles and intricate patterns for Morocco, scholarly and monetary items for Arab regions, and colorful, lively expressions for Brazil.
+
+**Time Series Bar Chart Analysis:**
+![barchart](/assests/images/barchart.png)      ![chart](/assests/images/chart.png)
+
+Objects per Year by Culture: This chart shows acquisition trends over time. A peak for Arab objects around the 1960s and relatively fewer acquisitions for Brazilian and Moroccan objects could indicate a period of particular interest or availability of Arab artifacts.
+The word clouds and acquisition data together can provide a perspective on how the Harvard Art Museum curates its collection and which aspects of each culture are emphasized. This emphasis might reflect historical interests, collection availability, or curatorial decisions that could differ from those at other museums.
+
+Comparing to Personal Experience:
+Comparing this data to my own experiences in the Emirates and Morocco, I  find that the museum's collection aligns with or diverges from the cultural narratives and art movements im familiar with. This could highlight how cultural artifacts are represented and interpreted differently in an international context.
+
+Digging Deeper with Stop Words:
+By using a stop word function to remove high-frequency but low-information words (like "the," "and," "of"), I often uncover more nuanced themes in textual data. Removing such words from the word clouds could reveal less obvious but potentially more telling terms that speak to the essence of each culture's representation in the museum.
+
+**Final Thoughts on Cultural Importance:**
+
+The data you've collected suggests that museums like the HAM play a significant role in shaping public perceptions of different cultures. They make choices about which narratives to highlight and how to present them, which can influence understanding and appreciation of these cultures.
+
+This interpretation is based on the visual data you've provided. For a more detailed analysis, one could consider additional contextual information such as the museum's acquisition policies, the provenance of the objects, and how the displays are curated.
 
 
 
