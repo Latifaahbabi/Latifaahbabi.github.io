@@ -66,7 +66,7 @@ Drawing from my unique perspective and interest, I find it fascinating to consid
 
 Word clouds visually emphasize the frequency of words: the larger the word, the more frequently it appears in the source text. They can provide insights into the themes and subjects that are most prominent within a culture's artworks.
 
-![morocco](/assests/images/morocco.jpg) ![artwork](/assets/images/artwork.png)
+![morocco](/assests/images/morocco.jpg) 
 Words like "Embroidered," "Red," "Silk," "Patterns," and "Leaf" suggest a strong emphasis on textile arts and detailed, colorful patterns in Moroccan art.
 
 ![arab](/assests/images/arab.jpg)
