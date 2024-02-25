@@ -70,6 +70,7 @@ Word clouds visually emphasize the frequency of words: the larger the word, the 
 Words like "Embroidered," "Red," "Silk," "Patterns," and "Leaf" suggest a strong emphasis on textile arts and detailed, colorful patterns in Moroccan art.
 
 ![arab](/assests/images/arab.jpg)
+![arab](/assests/images/arab.jpg)
 Large words such as "Coin," "Manuscript," "Dinar," and "Dirham" indicate a focus on written materials and possibly historical and monetary art. 
 
 ![brazil](/assests/images/brazil.jpg)
