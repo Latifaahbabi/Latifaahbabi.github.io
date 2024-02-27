@@ -14,6 +14,7 @@ The Harvard Art Museums' website is a digital gateway to their vast collections,
 **Ease of Use:** The Harvard Art Museums' website is user-friendly and intuitive, allowing users to easily explore its extensive art collections. Its search functionality is efficient, filtering results based on criteria like time period, culture, or art type. The website also provides comprehensive metadata for each artwork, providing insights into the artist, historical context, and medium used. This comprehensive information deepens the viewer's understanding and appreciation of the art. The Harvard Art Museums' website serves as a model for contemporary museums to leverage digital platforms to extend their reach and impact, enhancing educational outcomes and fostering a deeper connection between the public and cultural heritage.
 
 **Metadata Availability:**
+
 ![artwork](/assets/images/artwork.png)
 
 The Harvard Art Museums' website provides a comprehensive and detailed description of the artwork "Moses Defending the Daughters of Jethro" by Nicolas Poussin. This extensive metadata includes vital identification and creation details, physical descriptions, provenance, acquisition rights, publication history, and exhibition history. The detailed information provides a rich context for viewers to appreciate the artwork beyond its visual appeal.
