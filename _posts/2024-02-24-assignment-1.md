@@ -72,13 +72,13 @@ These word clouds can suggest that the Harvard Art Museum's collection may repre
 **Time Series Bar Chart Analysis:**
 ![barchart](/assests/images/barchart.jpg)       ![chart](/assests/images/chart.jpg)
 
-Objects per Year by Culture: This chart shows acquisition trends over time. A peak for Arab objects around the 1960s and relatively fewer acquisitions for Brazilian and Moroccan objects could indicate a period of particular interest or availability of Arab art.
+**Objects per Year by Culture:** This chart shows acquisition trends over time. A peak for Arab objects around the 1960s and relatively fewer acquisitions for Brazilian and Moroccan objects could indicate a period of particular interest or availability of Arab art.
 The word clouds and acquisition data together can provide a perspective on how the Harvard Art Museum curates its collection and which aspects of each culture are emphasized. This emphasis might reflect historical interests, collection availability, or curatorial decisions that could differ from those at other museums.
 
-Comparing to Personal Experience:
+**Comparing to Personal Experience:**
 Comparing this data to my own experiences in the Emirates and Morocco, I find that the museum's collection aligns with or diverges from the cultural narratives and art movements im familiar with. This could highlight how cultural art are represented and interpreted differently in an international context. It stood out to me that Dirham is in there and it's big in the Arab word cloud, giving that the arab world has many currencies and the Dirham is most prominent within the arab cultures artwork got me excited since it's the Emirati currency.
 
-Digging Deeper with Stop Words:
+**Digging Deeper with Stop Words:**
 By using a stop word function to remove high-frequency but low-information words (like "the," "and," "of"), I uncovered more nuanced themes in textual data. Removing such words from the word clouds revealed less obvious but potentially more telling terms that speak to the essence of each culture's representation in the museum.
 
 **Final Thoughts on Cultural Importance:**
