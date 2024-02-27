@@ -28,11 +28,6 @@ Now, turning to the All_Objects.csv file, which you mentioned is accessible thro
 
 **Comprehensive Data:** The CSV file likely offers a comprehensive dataset of the museum's collections, including items not currently on display. Discuss how this data can offer a more complete picture of the museum's collection practices and priorities.
 
-**Analytical Possibilities:** With access to the raw data, you can perform various analyses that would be impractical through the website alone. This could include statistical analyses of the collection's composition (e.g., the distribution of works by time period, geography, or medium), trends over time in acquisitions, and gaps in the collection. Highlight what unique insights these analyses could provide about the museum's role in preserving and presenting world cultures.
-
-**Cultural Representation and Bias:** Consider how the dataset might allow for an exploration of cultural representation within the museum's collections. Are certain cultures or time periods overrepresented or underrepresented? Discuss how this data can shed light on the biases and perspectives that inform museum collection practices, reflecting broader trends in contemporary Western museums.
-
-
 Digital tools and resources, like museum websites and publicly available data APIs, can enhance our understanding of art collections. They not only democratize access to art but also offer new avenues for research and education, allowing for a deeper understanding of cultural heritage and its representation in modern institutions. Also, while the website offers a curated, user-friendly entrance to the museum's collections, the API-derived data opens up a broader field for analytical exploration, offering insights into the museum's collection strategy, cultural representation, and potential biases. This dual approach enriches our understanding of how museums operate in the digital age, balancing between public engagement and scholarly research.
 
 
