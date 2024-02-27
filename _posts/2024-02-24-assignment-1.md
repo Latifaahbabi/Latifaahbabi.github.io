@@ -5,7 +5,6 @@ categories:
   - blog
 tags:
   - Assignment
-  - update
 ---
 
 # `Part 1: Exploring the HAM Website`
