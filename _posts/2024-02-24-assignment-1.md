@@ -40,18 +40,18 @@ Digital tools and resources, like museum websites and publicly available data AP
 
 **Most and Least Viewed Items Analysis**
 
-**Why They Are Popular:**The most viewed items might be those that have significant historical value, are part of popular exhibitions, or have been extensively promoted by the museum. They could also be works by renowned artists or pieces that resonate with contemporary social and cultural themes.
+ -**Why They Are Popular:**The most viewed items might be those that have significant historical value, are part of popular exhibitions, or have been extensively promoted by the museum. They could also be works by renowned artists or pieces that resonate with contemporary social and cultural themes.
 
-**Example Analysis:** For cultures with high object counts and views, such as "Spanish" or "Native American," look for patterns like notable artists (e.g., Picasso for Spanish) or pieces with unique historical significance. This can indicate public interest areas or successful museum promotion strategies.
+ -**Example Analysis:** For cultures with high object counts and views, such as "Spanish" or "Native American," look for patterns like notable artists (e.g., Picasso for Spanish) or pieces with unique historical significance. This can indicate public interest areas or successful museum promotion strategies.
 
-**Reasons for Lower Views:**The least viewed items might be less accessible on the website, not included in major exhibitions, or represent cultures or time periods that are less known or currently underrepresented in mainstream art history discourse.
+ -**Reasons for Lower Views:**The least viewed items might be less accessible on the website, not included in major exhibitions, or represent cultures or time periods that are less known or currently underrepresented in mainstream art history discourse.
 
-**Example Analysis:** For cultures with lower object counts or views, such as "Turkistan" or "Himyarite," this might reflect a need for more inclusive curation or targeted efforts to highlight these collections' value and relevance.
+ -**Example Analysis:** For cultures with lower object counts or views, such as "Turkistan" or "Himyarite," this might reflect a need for more inclusive curation or targeted efforts to highlight these collections' value and relevance.
 
 
-**Cultural Bias and Representation:** The viewing patterns might reflect broader cultural biases and the representation of non-Western cultures in art history. Popular items might align with well-known narratives or aesthetic preferences, while less viewed items might challenge or fall outside these narratives.
+ -**Cultural Bias and Representation:** The viewing patterns might reflect broader cultural biases and the representation of non-Western cultures in art history. Popular items might align with well-known narratives or aesthetic preferences, while less viewed items might challenge or fall outside these narratives.
 
-**Museum Practices:** The data could also reflect museum practices, including acquisition policies, exhibition strategies, and educational outreach efforts. Museums play a significant role in shaping which cultures and artworks are highlighted and how they are interpreted.
+ -**Museum Practices:** The data could also reflect museum practices, including acquisition policies, exhibition strategies, and educational outreach efforts. Museums play a significant role in shaping which cultures and artworks are highlighted and how they are interpreted.
 
 # `Part 3: Compare Cultures`
 
