@@ -24,8 +24,6 @@ The recorded ownership history offers insights into the artwork's journey before
 Accessibility and permissions details foster a transparent approach, encouraging the use of the collections for personal and educational purposes. However, there are inherent limitations to the information provided, such as the inability to fully replicate the sensory experience of viewing the artwork in person. Interactive elements like zooming into specific details or virtual reality experiences could further enhance understanding and engagement with the artwork.
 
 Additional multimedia resources, such as audio guides, video documentaries, or expert interviews, could offer deeper insights into the artwork's background, artist's life, and the cultural era it represents. Overall, the Harvard Art Museums' website effectively provides detailed and accessible information about the artwork, outweighing its limitations.
-Comparing with API-derived Data (All_Objects.csv)
-Now, turning to the All_Objects.csv file, which you mentioned is accessible through the posit.cloud project and a shared drive. This file presumably contains detailed metadata for the museum's collections, potentially offering insights not readily apparent through the website.
 
 **Comprehensive Data:** The CSV file likely offers a comprehensive dataset of the museum's collections, including items not currently on display. Discuss how this data can offer a more complete picture of the museum's collection practices and priorities.
 
