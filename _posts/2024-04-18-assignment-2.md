@@ -45,7 +45,7 @@ Dialogue-Centric Writing: The repetition of words like "said," "replied," "cried
 Social Hierarchies: Terms like "gentleman," "sir," "boy," and "mr" (commonly followed by a character's last name) emphasize the rigid social structures and the significance of class and social status in Victorian England, which are important elements in all three novels.
 
 Moral and Emotional Language: Words such as "good," "dear," "spirit," and "poor" reflect the moral and ethical dimensions that are inherent in Dickens's work. They evoke the emotional and psychological states of the characters, often in response to the societal conditions they face.
-![Oliver](/assets/images/wordcloud1)
-![christmas](/assets/images/wordcloud2)
-![hardtimes](/assets/images/wordcloud3)
+![Oliver](/assets/images/wordcloud1.png)
+![christmas](/assets/images/wordcloud2.png)
+![hardtimes](/assets/images/wordcloud3.png)
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=2f1db633932bb3232d587ede65c78ba1&docId=0615089db24d3c6c9634e85b1a984c9e&view=Knots'></iframe>
