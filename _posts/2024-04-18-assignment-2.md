@@ -35,3 +35,7 @@ By examining Dickens's life alongside his works, I gain a richer understanding o
 
 `Word Clouds`
 
+![Oliver](/assets/images/wordcloud1)
+![christmas](/assets/images/wordcloud2)
+![hardtimes](/assets/images/wordcloud3)
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=2f1db633932bb3232d587ede65c78ba1&docId=0615089db24d3c6c9634e85b1a984c9e&view=Knots'></iframe>
