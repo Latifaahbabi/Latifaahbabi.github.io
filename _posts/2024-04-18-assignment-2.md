@@ -7,7 +7,7 @@ Charles Dickens, one of the most influential writers of the Victorian era, used 
 
 Ive selected from Project Gutenburg Charles Dickens books such as "A Christmas Carol," "Hard Times," and "Oliver Twist" for comparative analysis, we delve into the rich thematic terrain of Charles Dickens's critique of Victorian society, exploring moral and ethical questions through diverse narrative lenses. Each text, while rooted in common themes of social criticism, approaches these issues from unique perspectives, thus offering a comprehensive view of Dickens's evolving narrative style and thematic focus.
 
-Building The Corpus
+# Building The Corpus
 
 `Oliver Twist – Childhood and Crime`
 
@@ -33,8 +33,18 @@ Throughout his career, Dickens was a vocal critic of social injustices, particul
 
 By examining Dickens's life alongside his works, I gain a richer understanding of how his personal experiences shaped his literary endeavors. His novels are not merely tales of individual triumphs and tragedies but are deeply intertwined with his own life and the broader social issues of his time. This context not only adds depth to our analysis of his works but also highlights Dickens's enduring impact as a writer committed to social change.
 
-`Word Clouds`
+# Word Clouds
+These below are the word clouds generated from "Oliver Twist," "A Christmas Carol," and "Hard Times" they offer a visual representation of the frequently occurring words in each novel, which provides insights into recurring themes and the narrative style of Charles Dickens.
 
+`Patterns Across the Word Clouds:`
+
+Character Focus: The prominence of names such as "Oliver," "Scrooge," "Marley," and "Gradgrind" highlights Dickens's focus on his characters, suggesting that the individual’s journey is central to the narrative and themes of each novel.
+
+Dialogue-Centric Writing: The repetition of words like "said," "replied," "cried," and "inquired" points to Dickens's heavy use of dialogue to drive the story forward and develop his characters. 
+
+Social Hierarchies: Terms like "gentleman," "sir," "boy," and "mr" (commonly followed by a character's last name) emphasize the rigid social structures and the significance of class and social status in Victorian England, which are important elements in all three novels.
+
+Moral and Emotional Language: Words such as "good," "dear," "spirit," and "poor" reflect the moral and ethical dimensions that are inherent in Dickens's work. They evoke the emotional and psychological states of the characters, often in response to the societal conditions they face.
 ![Oliver](/assets/images/wordcloud1)
 ![christmas](/assets/images/wordcloud2)
 ![hardtimes](/assets/images/wordcloud3)
