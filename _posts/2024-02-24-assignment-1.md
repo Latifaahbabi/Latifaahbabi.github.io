@@ -70,7 +70,8 @@ Terms like "Drawing," "Dancing," "Yellow," "Figure," and "Rio" reflect a vibrant
 These word clouds can suggest that the Harvard Art Museum's collection may represent each culture through certain lenses textiles and intricate patterns for Morocco, scholarly and monetary items for Arab regions, and colorful, lively expressions for Brazil.
 
 **Time Series Bar Chart Analysis:**
-![barchart](/assests/images/barchart.png)       ![chart](/assests/images/chart.png)
+![barchart](/assests/images/barchart.png)
+![chart](/assests/images/chart.png)
 
 **Objects per Year by Culture:** This chart shows acquisition trends over time. A peak for Arab objects around the 1960s and relatively fewer acquisitions for Brazilian and Moroccan objects could indicate a period of particular interest or availability of Arab art.
 The word clouds and acquisition data together can provide a perspective on how the Harvard Art Museum curates its collection and which aspects of each culture are emphasized. This emphasis might reflect historical interests, collection availability, or curatorial decisions that could differ from those at other museums.
