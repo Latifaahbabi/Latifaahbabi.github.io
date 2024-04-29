@@ -34,7 +34,7 @@ Throughout his career, Dickens was a vocal critic of social injustices, particul
 By examining Dickens's life alongside his works, I gain a richer understanding of how his personal experiences shaped his literary endeavors. His novels are not merely tales of individual triumphs and tragedies but are deeply intertwined with his own life and the broader social issues of his time. This context not only adds depth to our analysis of his works but also highlights Dickens's enduring impact as a writer committed to social change.
 
 # Word Clouds
-These below are the word clouds generated from "Oliver Twist," "A Christmas Carol," and "Hard Times" they offer a visual representation of the frequently occurring words in each novel, which provides insights into recurring themes and the narrative style of Charles Dickens.
+These below are the word clouds generated from "Oliver Twist," "A Christmas Carol",and "Hard Times" they offer a visual representation of the frequently occurring words in each novel, which provides insights into recurring themes and the narrative style of Charles Dickens.
 
 `Patterns Across the Word Clouds:`
 
@@ -48,4 +48,7 @@ Moral and Emotional Language: Words such as "good," "dear," "spirit," and "poor"
 ![Oliver](/assets/images/wordcloud1.png)
 ![christmas](/assets/images/wordcloud2.png)
 ![hardtimes](/assets/images/wordcloud3.png)
+
+# Knots
+Using the words extracted from the book "A Christmas Carol" i used the moving tool called 'Knots'. With this you can see the lines swisting everytime its repeated throughout the book 
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=2f1db633932bb3232d587ede65c78ba1&docId=0615089db24d3c6c9634e85b1a984c9e&view=Knots'></iframe>
