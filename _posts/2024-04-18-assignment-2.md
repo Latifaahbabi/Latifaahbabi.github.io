@@ -50,7 +50,8 @@ Moral and Emotional Language: Words such as "good," "dear," "spirit," and "poor"
 ![hardtimes](/assets/images/wordcloud3.png)
 
 # Knots
-Using the words extracted from the book "A Christmas Carol" i used the moving tool called 'Knots'. With this you can see the lines swisting everytime its repeated throughout the book 
+Using the words extracted from the book "A Christmas Carol" i used the moving tool called 'Knots'. With this you can see the lines swisting everytime its repeated throughout the book.
+
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=2f1db633932bb3232d587ede65c78ba1&docId=0615089db24d3c6c9634e85b1a984c9e&view=Knots'></iframe>
 
 # Links
@@ -63,3 +64,14 @@ Patterns in Links:
 - The central positioning of the word "said" links to many other words, indicating the importance of dialogue in Dickens's storytelling. It suggests that conversation is a primary vehicle for character development and the exposition of key themes.
 
 The visualization of these links aids in comprehending the multifaceted ways in which Dickens approached social commentary—through a web of characters and dialogues that collectively paint a picture of the society he critiqued. This technique is effective in engaging the reader, as it mirrors the complexities of real-life social networks and interactions.
+
+# Conclusion
+
+Throughout my exploration of Charles Dickens's "A Christmas Carol," "Oliver Twist," and "Hard Times" using various tools in voyant tools like word clouds and linked word graphs, I've uncovered intricate layers of thematic emphasis, character development, and narrative technique. These tools have illuminated the recurring patterns in Dickens's works, such as the centrality of dialogue in advancing the plot and the depth of character interactions reflecting Victorian social hierarchies.
+
+The visual analyses not only highlighted the prominent themes of social critique and moral questioning in Dickens's works but also showcased how different narratives explore these themes through the lenses of childhood and crime, industrialization, and personal redemption. This approach has provided a dynamic exploration of Dickens's evolving narrative methods and thematic concerns across different settings.
+
+In line with Johanna Drucker's insights from the Digital Humanities Coursebook, my examination shows that visual data representation is inherently interpretative. The chosen formats—word clouds and linked word graphs—while illustrative, are not definitive but rather offer a perspective on Dickens's literary style and thematic preoccupations. As Drucker suggests, every visualization should be approached with skepticism, understanding that these are not absolute representations but rather constructed interpretations that provide visual access to complex textual analyses.
+
+
+
