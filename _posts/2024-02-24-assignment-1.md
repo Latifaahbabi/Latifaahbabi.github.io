@@ -15,8 +15,6 @@ The Harvard Art Museums' website is a digital gateway to their vast collections,
 
 **Metadata Availability:**
 
-![artwork](/assets/images/artwork.png)
-
 The Harvard Art Museums' website provides a comprehensive and detailed description of the artwork "Moses Defending the Daughters of Jethro" by Nicolas Poussin. This extensive metadata includes vital identification and creation details, physical descriptions, provenance, acquisition rights, publication history, and exhibition history. The detailed information provides a rich context for viewers to appreciate the artwork beyond its visual appeal.
 
 The recorded ownership history offers insights into the artwork's journey before arriving at the museum, helping historians and art enthusiasts trace its provenance and significance over time. The publication and exhibition history highlights the artwork's relevance within the art community and serves as a resource for further study.
