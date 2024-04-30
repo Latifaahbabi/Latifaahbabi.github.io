@@ -73,5 +73,5 @@ The visual analyses not only highlighted the prominent themes of social critique
 
 In line with Johanna Drucker's insights from the Digital Humanities Coursebook, my examination shows that visual data representation is inherently interpretative. The chosen formats—word clouds and linked word graphs—while illustrative, are not definitive but rather offer a perspective on Dickens's literary style and thematic preoccupations. As Drucker suggests, every visualization should be approached with skepticism, understanding that these are not absolute representations but rather constructed interpretations that provide visual access to complex textual analyses.
 
-
+ready to be graded
 
