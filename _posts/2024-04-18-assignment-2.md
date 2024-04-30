@@ -52,3 +52,14 @@ Moral and Emotional Language: Words such as "good," "dear," "spirit," and "poor"
 # Knots
 Using the words extracted from the book "A Christmas Carol" i used the moving tool called 'Knots'. With this you can see the lines swisting everytime its repeated throughout the book 
 <iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=2f1db633932bb3232d587ede65c78ba1&docId=0615089db24d3c6c9634e85b1a984c9e&view=Knots'></iframe>
+
+# Links
+![Oliver](/assets/images/links1.png)
+![christmas](/assets/images/links2.png)
+![hardtimes](/assets/images/link3.png)
+Patterns in Links:
+
+ - Central characters such as "Scrooge," "Oliver," and "Gradgrind" are hubs for numerous connections, emphasizing their importance to the narrative and the themes explored in the novels. Their frequent interactions with other characters drive the story's progression and underscore their central roles.
+- The central positioning of the word "said" links to many other words, indicating the importance of dialogue in Dickens's storytelling. It suggests that conversation is a primary vehicle for character development and the exposition of key themes.
+
+The visualization of these links aids in comprehending the multifaceted ways in which Dickens approached social commentary—through a web of characters and dialogues that collectively paint a picture of the society he critiqued. This technique is effective in engaging the reader, as it mirrors the complexities of real-life social networks and interactions.
