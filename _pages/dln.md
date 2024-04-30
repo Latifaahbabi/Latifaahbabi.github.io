@@ -3,7 +3,8 @@ title: "Digital Literacy Narrative"
 permalink: /dln/
 author_profile: false
 ---
-# Course Reflection
+
+**Step 1**
 
 As a 19-year-old university student, I embarked on a transformative journey by enrolling in an introductory course in digital humanities. What made this experience particularly enriching was the diverse group of classmates who joined me. Our majors spanned a wide spectrum of disciplines, including Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Together, we have explored digital literacy, each bringing a unique set of strategies and skills into the classroom.
 
@@ -24,3 +25,18 @@ Digital humanities has broadened our horizons, offering fresh perspectives on ou
 Looking ahead, we are excited to continue our exploration of new ways of thinking and working. We aim to cultivate a holistic approach to education that recognizes the value of interdisciplinary thinking in a digitally driven world. We envision a future where collaboration between artists, scientists, scholars, and creators becomes the norm, fostering innovation and pushing the boundaries of our fields.
 
 In conclusion, our journey through digital humanities has been transformative. It has expanded our horizons, bridged the gap between technology and the humanities, and equipped us with a multifaceted understanding of digital literacy. As we continue to navigate the digital landscape, we are poised to embrace new ways of thinking and working that promote interdisciplinary collaboration and responsible digital citizenship. In the age of AI, we are ready to embrace the challenges and opportunities that lie ahead.
+
+**Step 2**
+
+Reflecting on my digital humanities course as a 19-year-old university student, I find myself profoundly influenced by the interdisciplinary approaches and insights gained from a classroom filled with peers from diverse academic backgrounds. As a prospective Computer Science major, my familiarity with Python and Java has been instrumental in navigating content creation and software development. However, the digital humanities course offered a broader canvas, intertwining technology with arts, sciences, and storytelling in ways I hadn't previously considered.
+
+Our course introduced us to a broad spectrum of digital tools and methodologies, allowing each student to contribute uniquely from their disciplinary perspectives. For instance, as we delved into user-centered design and interactive storytelling, I appreciated the practical applications of programming skills beyond traditional tech environments. This multidisciplinary interaction not only enriched my understanding but also reduced the anxiety often associated with mastering new technologies.
+
+Furthermore, big data is less about the size and more about our attitudes towards it, emphasizing the need to consider data's origins and context. This perspective was a revelation, shifting my focus from merely analyzing large datasets to understanding the nuanced, local narratives that they encapsulate. This shift towards valuing local knowledge aligns with broader academic discussions, challenging the differece between scientific data and traditional knowledge forms, thereby enriching our analytical approaches.
+
+This course has not only equipped me with technical skills but also fostered a critical appreciation for the socio-cultural dimensions of technology. As we move forward, I am eager to apply these insights into my future projects, particularly in developing interactive digital platforms that are inclusive and reflective of diverse user experiences. The ability to code and develop software like learning how to make a website on a app ive never heard of or used before (GitHub).
+
+In conclusion, my digital humanities journey has been transformative. It has expanded my technical abilities while grounding my skills in a critical, socially aware framework. As we continue to navigate this digital age, I look forward to exploring new ways of interdisciplinary collaboration, ensuring that our digital futures are as inclusive as they are innovative. I am not only learning to code; I am learning to contextualize, critique, and creatively engage with the digital tools at our disposal, aiming for a holistic educational approach that prepares us for the complexities of our technologically driven world.
+
+**Step 3**
+
