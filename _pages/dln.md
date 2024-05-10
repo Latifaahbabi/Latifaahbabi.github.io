@@ -40,3 +40,16 @@ In conclusion, my digital humanities journey has been transformative. It has exp
 
 **Step 3**
 
+As a 19-year-old university student and a prospective Computer Science major, my journey through the digital humanities course has been nothing short of transformative. Engaging with an interdisciplinary curriculum that merges technology with arts, sciences, and storytelling has expanded my understanding and appreciation of digital tools in unprecedented ways.
+
+Throughout the course, we were introduced to various digital platforms, including GitHub, which was unfamiliar to me initially. The ability to create and manage a website using GitHub Pages demonstrated the practical side of coding outside traditional tech environments. This experience has made me consider other platforms like voyant tools for data visualization, which could be utilized in future projects to present information or narratives in engaging and accessible ways.
+
+My background in Python and Java was instrumental in adapting to new digital tools. The course has honed my skills in user-centered design, emphasizing the importance of creating digital solutions that cater to diverse user needs. A significant insight was the concept of 'big data'—learning to see beyond the volume of data to the stories and contexts they represent. This understanding encourages a more thoughtful approach to data analysis, where local knowledge and qualitative insights are as valued as quantitative metrics.
+
+While I've become proficient in several technical aspects, there remains room for improvement in areas like data ethics and privacy. Understanding the implications of data collection and usage in an increasingly digital world is crucial. 
+
+The course has introduced me to new ways of thinking about data, particularly in how we interpret and utilize digital information to make socially responsible decisions. It's not just about the tools we use, but the impact our technology has on society. This includes considering the accessibility of digital platforms and how they can be designed to be inclusive of all users, regardless of their background or abilities.
+
+Working with AI, such as ChatGPT, has been enlightening. It has shown me the potential of AI in augmenting human creativity and intelligence, rather than just automating tasks. Learning to interact with AI, understanding its capabilities and limitations, has been crucial in appreciating how it can be an ally in various digital projects. It was the most fun using it when we were gathering images for the Unproject because it came up with amazing and interesting visions.
+
+The digital humanities course has not only equipped me with versatile technical skills but has also instilled a critical lens through which I view the integration of technology in our daily lives. As I continue to explore this field, I am eager to develop projects that are not only technologically sound but also socially conscious and inclusive. The course has laid a foundation for a holistic educational approach, preparing us to navigate the complexities of our technologically driven world.
