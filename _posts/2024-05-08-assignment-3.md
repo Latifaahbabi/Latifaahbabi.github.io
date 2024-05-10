@@ -8,12 +8,12 @@ date: 2024-05-08T15:34:30-04:00
 The objective of this assignment was to visualize and analyze the geographical distribution of enterprises listed in the **1995 Kazakhstan Defense Enterprise Directory**. This directory provides a comprehensive overview of defense-related enterprises, which have shifted towards civilian production post-Cold War era, indicating the economic transition of Kazakhstan from military to diversified industrial focus.
 
 # Methodology
-<img src="/assets/{list}.png" style="zoom:50%"/>
-The list of enterprises was derived directly from the 1995 Kazakhstan Defense Enterprise Directory. This directory was chosen as it represents a unique period in Kazakhstan's economic development, focusing on industries converting from military to civilian purposes.
+![list](/assets/images/list.png)
+The [list](https://docs.google.com/spreadsheets/d/1Pp1_PEqnPTMCT6I07ZCb2itLZ4Ki79T1qVKGhh5KKKU/edit?usp=sharing) of enterprises was derived directly from the 1995 Kazakhstan Defense Enterprise Directory. This directory was chosen as it represents a unique period in Kazakhstan's economic development, focusing on industries converting from military to civilian purposes.
 
 **Geocoding Process:**
 
-To determine the geographical distribution of the listed enterprises, their addresses were geocoded to convert street addresses into geographic coordinates. This was accomplished using "[BatchGeo](https://www.batchgeo.com/)", an online geocoding service. BatchGeo was selected for its user-friendliness and ability to handle batch processing efficiently, making it ideal for converting multiple addresses at once. I inserted a copy of the list i have created manually then I let Batchgeo do the rest.
+To determine the geographical distribution of the listed enterprises, their addresses were geocoded to convert street addresses into geographic coordinates. This was accomplished using [BatchGeo](https://www.batchgeo.com/), an online geocoding service. BatchGeo was selected for its user-friendliness and ability to handle batch processing efficiently, making it ideal for converting multiple addresses at once. I inserted a copy of the list i have created manually then I let Batchgeo do the rest.
 
 **Mapping Tool Selection:**
 
@@ -22,7 +22,7 @@ The geocoded data was then visualized using BatchGeo for mapping. BatchGeo was p
 # Visualization
 
 ![map](/assets/images/map.png)
-The map generated in BatchGeo visually represents the locations of all the enterprises across Kazakhstan. The visual spread of these "[locations](https://batchgeo.com/map/419186e7ef523cf92be0d002ce43ae7c)" can be seen in the attached screenshots, which illustrate clusters and isolated enterprises in various regions of the country.
+The map generated in BatchGeo visually represents the locations of all the enterprises across Kazakhstan. The visual spread of these [locations](https://batchgeo.com/map/419186e7ef523cf92be0d002ce43ae7c) can be seen in the attached screenshots, which illustrate clusters and isolated enterprises in various regions of the country.
 
 ![zoomed](/assets/images/zoomed.png)
 ![zoomed2](/assets/images/zoomed2.png)
