@@ -57,3 +57,5 @@ For future projects, an ideal source would be a national business registry that 
 # Conclusion
 
 This analysis has provided key insights into the industrial and economic landscape of **Kazakhstan** in the mid-1990s, highlighting significant urban-industrial concentrations and the beginning of a transition from military-focused to diversified industries. The use of geocoding and interactive mapping tools like **BatchGeo** has proven effective in visualizing complex geographic data in an accessible format. A limitation of this project was the reliance on the accuracy and completeness of the directory data. 
+
+Ready to be graded
