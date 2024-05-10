@@ -1,11 +1,7 @@
 ---
 title: "Assignment 3 Spatial Data"
 date: 2024-05-08T15:34:30-04:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - notice
+
 ---
 
 # Introduction
