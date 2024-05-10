@@ -8,7 +8,7 @@ date: 2024-05-08T15:34:30-04:00
 The objective of this assignment was to visualize and analyze the geographical distribution of enterprises listed in the **1995 Kazakhstan Defense Enterprise Directory**. This directory provides a comprehensive overview of defense-related enterprises, which have shifted towards civilian production post-Cold War era, indicating the economic transition of Kazakhstan from military to diversified industrial focus.
 
 # Methodology
-<img src="/assets/list.png" style="zoom:50%"/>
+<img src="/assets/{list}.png" style="zoom:50%"/>
 The list of enterprises was derived directly from the 1995 Kazakhstan Defense Enterprise Directory. This directory was chosen as it represents a unique period in Kazakhstan's economic development, focusing on industries converting from military to civilian purposes.
 
 **Geocoding Process:**
