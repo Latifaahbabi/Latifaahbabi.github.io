@@ -53,3 +53,5 @@ The course has introduced me to new ways of thinking about data, particularly in
 Working with AI, such as ChatGPT, has been enlightening. It has shown me the potential of AI in augmenting human creativity and intelligence, rather than just automating tasks. Learning to interact with AI, understanding its capabilities and limitations, has been crucial in appreciating how it can be an ally in various digital projects. It was the most fun using it when we were gathering images for the Unproject because it came up with amazing and interesting visions.
 
 The digital humanities course has not only equipped me with versatile technical skills but has also instilled a critical lens through which I view the integration of technology in our daily lives. As I continue to explore this field, I am eager to develop projects that are not only technologically sound but also socially conscious and inclusive. The course has laid a foundation for a holistic educational approach, preparing us to navigate the complexities of our technologically driven world.
+
+ready to be graded
